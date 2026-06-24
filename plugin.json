@@ -13,7 +13,5 @@
     },
     "authorIcon": "icon_author_xs.png",
     "pluginIcon": "icon_plugin_xs.png",
-    "serviceProvider": "DropshippingCommunicatorSuflix\\Providers\\DropshippingCommunicatorSuflixServiceProvider",
-        "php": ">=8.0 <8.1"
-    }
+    "serviceProvider": "DropshippingCommunicatorSuflix\\Providers\\DropshippingCommunicatorSuflixServiceProvider"
 }
